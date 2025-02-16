@@ -1,4 +1,4 @@
-# 💖 Hey, I'm Nevena!  
+#  Hey, I'm Nevena!  
 
 🎓 **Computer Science Graduate** | 💡 **Aspiring Software Developer** | 🚀 **Tech Enthusiast**  
 
@@ -7,7 +7,7 @@ Currently, I'm working on **personal projects** and **exploring new technologies
 
 ---
 
-## 🌸 Connect with Me  
+##  Connect with Me  
 <p align="start">
   <a href="https://instagram.com/nevenamitic__">
     <img src="https://img.shields.io/badge/-Instagram-ff69b4?logo=instagram&logoColor=white" />
