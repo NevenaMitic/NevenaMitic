@@ -44,5 +44,5 @@ Currently, I'm working on **personal projects** and **exploring new technologies
 
 ---
 
-🌟 *Always learning, always coding!* 💜✨  
+🌟 *Always learning, always coding!* 💜  
 
