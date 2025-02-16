@@ -8,7 +8,7 @@ Currently, I'm working on **personal projects** and **exploring new technologies
 ---
 
 ## 🌸 Connect with Me  
-<p align="center">
+<p align="start">
   <a href="https://instagram.com/nevenamitic__">
     <img src="https://img.shields.io/badge/-Instagram-ff69b4?logo=instagram&logoColor=white" />
   </a>
