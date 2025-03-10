@@ -37,8 +37,7 @@ Currently, I'm working on **personal projects** and **exploring new technologies
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NevenaMitic&theme=radical&hide_border=false)  
+## 📊 GitHub Stats 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NevenaMitic&theme=radical&hide_border=false&layout=compact)  
 
